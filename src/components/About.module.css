@@ -1,0 +1,21 @@
+.section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: sans-serif;
+}
+.title h2{
+    font-size: 50px;
+}
+.title p{
+    font-size: 20px;
+    color: #47474d;
+}
+.about{
+   max-width: 600px;
+}
+.img{
+padding-top: 100px;
+}
